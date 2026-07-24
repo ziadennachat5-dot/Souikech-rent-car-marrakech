@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "vite_react_shadcn_ts",
   "private": true,
   "version": "0.0.0",
@@ -103,9 +102,5 @@
     "typescript-eslint": "^8.38.0",
     "vite": "latest",
     "vitest": "^3.2.4"
-=======
-  "dependencies": {
-    "@supabase/supabase-js": "^2.110.8"
->>>>>>> 75727c5 (Initial commit - Drive in Marrakech website)
   }
 }

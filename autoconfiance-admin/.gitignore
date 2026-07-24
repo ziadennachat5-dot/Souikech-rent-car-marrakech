@@ -26,5 +26,3 @@ db/cars.db
 *.njsproj
 *.sln
 *.sw?
-
-node_modules/
